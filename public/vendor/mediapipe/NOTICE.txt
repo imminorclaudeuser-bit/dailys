@@ -1,0 +1,6 @@
+MediaPipe Tasks Vision 0.10.35 (Google), Apache License 2.0 — https://github.com/google-ai-edge/mediapipe
+Files: vision_bundle.mjs and wasm/* from the npm package @mediapipe/tasks-vision@0.10.35;
+face_landmarker.task (float16, v1) from https://storage.googleapis.com/mediapipe-models/.
+Used on the "Write a day" page to read facial expressions on the device. No video leaves the browser.
+
+efficientnet_lite0.tflite (int8, v1): MediaPipe image classifier, Apache 2.0, used to name what is in an atmosphere video.

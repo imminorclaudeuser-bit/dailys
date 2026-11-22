@@ -1,0 +1,12 @@
+# Never upload secrets, local diaries or test files to Railway
+.env
+.env.*
+data/
+test/
+.DS_Store
+.claude/
+*.log
+brand/
+brag-output/
+brag-output-*/
+submission/

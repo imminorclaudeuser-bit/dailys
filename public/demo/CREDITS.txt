@@ -1,0 +1,18 @@
+Photos for the example days, from Wikimedia Commons (resized to 1280 px).
+
+d1-park-1.jpg: "Park Środula, Sosnowiec, Jesień 2021" by Krzysztof Popławski, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Park_%C5%9Arodula,_Sosnowiec,_Jesie%C5%84_2021.jpg
+d1-park-2.jpg: "Memmelsdorf Schloss Seehof Lindenallee-20231101-RM-115618" by Ermell, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Memmelsdorf_Schloss_Seehof_Lindenallee-20231101-RM-115618.jpg
+d1-park-3.jpg: "Münster, Park Sentmaring -- 2015 -- 9923" by Dietmar Rabich, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:M%C3%BCnster,_Park_Sentmaring_--_2015_--_9923.jpg
+d2-office-1.jpg: "Münster, WestLotto -- 2013 -- 3296" by Dietmar Rabich, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:M%C3%BCnster,_WestLotto_--_2013_--_3296.jpg
+d2-office-2.jpg: "Bose QuietComfort 25 Acoustic Noise Cancelling Headphones with Carry Case" by Florian Fuchs, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Bose_QuietComfort_25_Acoustic_Noise_Cancelling_Headphones_with_Carry_Case.jpg
+d3-rain-1.jpg: "Thirsk MMB 01 A170 Sutton Road" by mattbuck (category), CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Thirsk_MMB_01_A170_Sutton_Road.jpg
+d3-rain-2.jpg: "Red Tea" by Jubair1985, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Red_Tea.jpg
+d3-rain-3.jpg: "A cup of Assam Tea with lemon" by Nayan j Nath, CC0, https://commons.wikimedia.org/wiki/File:A_cup_of_Assam_Tea_with_lemon.jpg
+d4-market-1.jpg: "Abricot marché de la casbah d'Alger" by Reda Kerbush, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Abricot_march%C3%A9_de_la_casbah_d%27Alger.JPG
+d4-market-2.jpg: "Fruit Stall in Barcelona Market" by By en:User:Daderot., CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Fruit_Stall_in_Barcelona_Market.jpg
+d4-market-3.jpg: "Gesundes Leben 002 2014 03 19" by Friedrich Haag, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Gesundes_Leben_002_2014_03_19.jpg
+d5-snow-1.jpg: "Bingham railway station MMB 03" by mattbuck (category), CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Bingham_railway_station_MMB_03.jpg
+d5-snow-2.jpg: "Grantham railway station MMB 25" by mattbuck (category), CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Grantham_railway_station_MMB_25.jpg
+d5-snow-3.jpg: "Street lamp during a snowfall" by Andou, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Street_lamp_during_a_snowfall.JPG
+d6-spring-1.jpg: "Window in a cafe in San Gimignano (02182)2" by Rhododendrites, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Window_in_a_cafe_in_San_Gimignano_(02182)2.jpg
+d6-spring-2.jpg: "Apple-tree blossoms 2017 G2" by George Chernilevsky, Public domain, https://commons.wikimedia.org/wiki/File:Apple-tree_blossoms_2017_G2.jpg

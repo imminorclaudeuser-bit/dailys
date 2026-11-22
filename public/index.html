@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="light dark">
+<meta name="theme-color" content="#FFFFFF">
+<title>Daily’s — a diary of memories</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Caveat:wght@500&family=Pangolin&family=Hedvig+Letters+Serif:opsz@12..24&family=Rethink+Sans:wght@400;500;600;700&display=swap">
+<!-- only the capital W from DM Sans: Rethink Sans draws W with crossing strokes that look doubled -->
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&text=W&display=swap">
+<link rel="stylesheet" href="/style.css">
+</head>
+<body>
+<main class="main" id="main"></main>
+<!-- Navigation lives in a bar at the bottom of the screen; the dot under it slides to the current section. -->
+<nav class="dock" aria-label="Sections">
+  <a class="logo" href="#/" data-act="top" aria-label="Daily’s"><i class="mark" aria-hidden="true"></i></a>
+  <div class="dock-links guest-nav" id="gnav">
+    <button data-act="jump" data-to="sec1" data-i18n="navStory"></button>
+    <button data-act="jump" data-to="sec2" data-i18n="navMoods"></button>
+    <button data-act="jump" data-to="sec3" data-i18n="navHow"></button>
+    <button data-act="jump" data-to="sec4" data-i18n="login"></button>
+  </div>
+  <div class="dock-links app-nav" id="nav">
+    <a href="#/new" data-r="new" data-i18n="navNew"></a>
+    <a href="#/archive" data-r="archive" data-i18n="navArchive"></a>
+    <a href="#/ribbon" data-r="ribbon" data-i18n="navRibbon"></a>
+    <a href="#/admin" data-r="admin" class="admin-only" data-i18n="navAdmin"></a>
+    <a href="#/calendar" data-r="calendar" data-i18n="navCal"></a>
+    <a href="#/profile" data-r="profile" class="me-link"><span id="dockava"></span><span data-i18n="profile"></span></a>
+  </div>
+  <button class="themesw" data-act="theme" data-i18n-label="themeToggle"><svg class="sun" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="4.5"/><path d="M12 2v2.5M12 19.5V22M2 12h2.5M19.5 12H22M4.9 4.9l1.8 1.8M17.3 17.3l1.8 1.8M4.9 19.1l1.8-1.8M17.3 6.7l1.8-1.8"/></svg><svg class="moon" viewBox="0 0 24 24" aria-hidden="true"><path d="M20 14.5A8 8 0 1 1 9.5 4a6.5 6.5 0 0 0 10.5 10.5z"/></svg></button>
+  <div class="langsw" role="group" aria-label="Language"><button data-act="lang" data-lang="en" aria-pressed="true">EN</button><button data-act="lang" data-lang="ru" aria-pressed="false">RU</button></div>
+</nav>
+<div class="loader" id="loader" role="status" aria-live="polite"><i></i><span id="loadmsg" data-i18n="loading"></span></div>
+<div id="islands" aria-live="polite"></div>
+<dialog id="dlg"></dialog>
+<script src="/engine.js"></script>
+<script src="/i18n.js"></script>
+<script src="/vendor/gsap.min.js"></script>
+<script src="/vendor/ScrollTrigger.min.js"></script>
+<script src="/motion.js"></script>
+<script src="/daisy.js"></script>
+<script src="/play.js"></script>
+<script src="/face.js"></script>
+<script src="/media.js"></script>
+<script src="/app.js"></script>
+</body>
+</html>

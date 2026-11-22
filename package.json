@@ -1,0 +1,13 @@
+{
+  "name": "ottenki-dnya",
+  "version": "1.0.0",
+  "description": "Дневник воспоминаний: текст, фото и песня превращаются в воспоминание дня",
+  "private": true,
+  "engines": {
+    "node": ">=22.13"
+  },
+  "scripts": {
+    "start": "node --env-file-if-exists=.env server.js",
+    "test": "node test/api.test.js && node test/engine.test.js"
+  }
+}
